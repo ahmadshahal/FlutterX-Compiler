@@ -23,16 +23,10 @@ The FlutterX Compiler has the following dependencies:
 - Jsoup-1.16.1: Jsoup is a Java library used by the compiler to manipulate HTML content during the code generation process. Add the Jsoup-1.16.1 library to your project's classpath.
 - Commons-IO-2.12.0: Commons IO is a Java library used by the compiler for file-related operations, such as creating and writing files. Include the Commons-IO-2.12.0 library in your project's classpath.
 
-Compiler Design (class Diagram)
---------
-![main Structe](https://github.com/Twfek-Ajeneh/FlutterX-Compiler/assets/92256265/abd97200-d459-45a8-8af0-cffcf6b30110)
+Results:
+------------
+![photo_2023-06-18_21-14-08](https://github.com/ahmadshahal/FlutterX-Compiler/assets/57716361/dbf6d0ba-81fb-46a9-878b-958936604366)
+![photo_2023-06-18_21-13-56](https://github.com/ahmadshahal/FlutterX-Compiler/assets/57716361/92c0806c-ca80-413d-ab82-116de4057353)
+![photo_2023-06-18_21-40-51](https://github.com/ahmadshahal/FlutterX-Compiler/assets/57716361/eab221c0-77fa-45b4-b4dd-dc96ebbadf55)
+![photo_2023-06-18_21-40-50](https://github.com/ahmadshahal/FlutterX-Compiler/assets/57716361/589bd4ca-c504-4d54-9bd4-94953196b2ff)
 
-![Expression](https://github.com/Twfek-Ajeneh/FlutterX-Compiler/assets/92256265/7613780d-10da-4344-9d7e-ed14d95d5498)
-
-![Statement](https://github.com/Twfek-Ajeneh/FlutterX-Compiler/assets/92256265/0f17ccaf-73d0-4791-8d86-104894ecb1ca)
-
-![symbol table](https://github.com/Twfek-Ajeneh/FlutterX-Compiler/assets/92256265/85f3cb47-e0df-4e94-9585-67a9653f50f4)
-
-![widget](https://github.com/Twfek-Ajeneh/FlutterX-Compiler/assets/92256265/e0281b8c-956f-4856-8bd2-bc5e68892eb5)
-
-![widgetAttr](https://github.com/Twfek-Ajeneh/FlutterX-Compiler/assets/92256265/98cfcf49-269e-4a63-b8d7-88aa3f338c94)
